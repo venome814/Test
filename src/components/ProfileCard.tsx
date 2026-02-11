@@ -10,7 +10,7 @@ import albumCover from '@/assets/album-cover.jpg';
 
 const tracks = [
   {
-    title: 'Shake it to the max',
+    title: 'venome  profile web',
     artist: 'MOLIY',
     albumArt: albumCover,
     duration: '3:00',
