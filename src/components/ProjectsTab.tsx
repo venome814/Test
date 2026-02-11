@@ -9,10 +9,10 @@ interface Project {
 
 const projects: Project[] = [
   {
-    name: 'portfolio',
+    name: 'DISCORD',
     description: 'Personal portfolio website with modern design',
-    tech: ['Next.js', 'React'],
-    link: 'https://urb4nayl.vercel.app/',
+    tech: ['SUPPORT'],
+    link: 'https://discord.gg/rsQhndsXMK',
   },
 ];
 
